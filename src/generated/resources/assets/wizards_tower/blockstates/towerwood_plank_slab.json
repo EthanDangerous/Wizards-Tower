@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "wizards_tower:block/towerwood_plank_slab"
+    },
+    "type=double": {
+      "model": "wizards_tower:block/towerwood_plank"
+    },
+    "type=top": {
+      "model": "wizards_tower:block/towerwood_plank_slab_top"
+    }
+  }
+}

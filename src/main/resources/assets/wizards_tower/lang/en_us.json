@@ -1,0 +1,25 @@
+{
+  "item.wizards_tower.animus_gem": "Empty Animus Gem",
+  "item.wizards_tower.filled_animus_gem": "Filled Animus Gem",
+  "item.wizards_tower.tower_seeds": "Tower Seeds",
+
+  "block.wizards_tower.towerwood": "Towerwood",
+  "block.wizards_tower.towerwood_plank": "Towerwood Planks",
+  "block.wizards_tower.magestone": "Magestone",
+  "block.wizards_tower.magestone_bricks": "Magestone Bricks",
+  "block.wizards_tower.magestone_pillar": "Magestone Pillar",
+  "block.wizards_tower.sourcerershroom": "Sourcerershroom",
+  "block.wizards_tower.heart_of_the_tower": "Heart Of The Tower",
+
+  "creativetab.wizards_tower.wizards_tower_general": "Wizard's Tower",
+  "creativetab.wizards_tower.wizards_tower_creative": "Wizard's Tower Creative",
+
+  "block.wizards_tower.towerwood_plank_stairs": "Towerwood Plank Stairs",
+  "block.wizards_tower.towerwood_plank_slab": "Towerwood Plank Slab",
+
+  "block.wizards_tower.towerwood_plank_fence": "Towerwood Plank Fence",
+
+  "block.wizards_tower.tower_door_bottom": "Towerwood Door Bottom",
+  "block.wizards_tower.tower_door_middle": "Towerwood Door Middle",
+  "block.wizards_tower.tower_door_top": "Towerwood Door Top"
+}
