@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/cube_all",
+  "parent": "minecraft:block/cube_column",
   "textures": {
-    "all": "wizards_tower:block/magestone_pillar"
+    "end": "wizards_tower:block/magestone_pillar_top",
+    "side": "wizards_tower:block/magestone_pillar"
   }
 }
